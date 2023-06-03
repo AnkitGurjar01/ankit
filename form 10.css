@@ -1,0 +1,35 @@
+*{
+    margin: 5px;
+    padding: 5px ;
+    
+    
+    background:rgb(255, 254, 254);
+}
+
+.ankit{
+    background:rgb(255, 254, 254);
+    display:inline-block;
+    text-align: center;
+    margin: 100px 5px 10px ;
+    padding: 10px 5px 10px;
+   
+    width: 98%;
+}
+.ankit h1{ background : black;
+    color:rgb(247, 8, 8);
+}
+
+.Username {
+    color: black;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+a {
+    color:red;
+    font-size:100%;
+    font-family:monospace;
+}
+.ankit h1 .Username a .submit.value{
+    color: aliceblue;
+}
